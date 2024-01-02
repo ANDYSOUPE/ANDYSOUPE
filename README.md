@@ -1,10 +1,10 @@
-👨‍💻 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is ANDY
+ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is ANDY
 ============================================================================================================================
 
 Frontend Developer
 ------------------
 <img align="right" height="170" width="170" src="CSB 112.png"/>
-I'm an aspiring developer, let's just say a rolling stone, I love to code!!!
+<pre>I'm an aspiring developer, let's just say a rolling stone, I love to code!!!</pre>
 
 * 🌍  I'm based in Mars
 * ✉️  You can contact me at [romacreator40@gmail.com](mailto:romacreator40@gmail.com)
