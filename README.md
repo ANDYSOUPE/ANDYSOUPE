@@ -13,7 +13,7 @@ I'm an aspiring developer, let's just say a rolling stone, I love to code!!!
 * ⚡  I have a cat named Pierre.
 
 <p align="center">
- <img width="600" src="github-snake.svg" alt="snake"/>
+ <img width="800" src="github-snake.svg" alt="snake"/>
 </p>
   
 ### 🤝 Connect with me  
