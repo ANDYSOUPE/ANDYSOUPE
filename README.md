@@ -13,7 +13,7 @@ Frontend Developer
 * ⚡  I have a cat named Pierre.
 
 <p align="center">
- <img width="800" src="github-snake.svg" alt="snake"/>
+ <img width="1800" src="github-snake.svg" alt="snake"/>
 </p>
   
 ### 🤝 Connect with me  
