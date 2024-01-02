@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is ANDY
+👨‍💻 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is ANDY
 ============================================================================================================================
 
 Frontend Developer
@@ -11,8 +11,12 @@ I'm an aspiring developer, let's just say a rolling stone, I love to code!!!
 * 🧠  I'm learning JS, TS, React
 * 🤝  I'm open to collaborating on Frontend
 * ⚡  I have a cat named Pierre.
+
+<p align="center">
+ <img width="600" src="github-snake.svg" alt="snake"/>
+</p>
   
-### Connect with me  
+### 🤝 Connect with me  
 <a href="https://github.com/ANDYSOUPE" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -22,7 +26,7 @@ I'm an aspiring developer, let's just say a rolling stone, I love to code!!!
 <a href="https://www.twitch.tv/anidy" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/anidy?logo=twitchsx&style=for-the-badge&color=000000&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
-### Skills
+### 💻 Skills
 
 
 <p align="left">
