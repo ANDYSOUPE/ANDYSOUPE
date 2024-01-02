@@ -3,7 +3,7 @@
 
 Frontend Developer
 ------------------
-
+<img align="right" height="170" width="170" src="CSB 112.png"/>
 I'm an aspiring developer, let's just say a rolling stone, I love to code!!!
 
 * 🌍  I'm based in Mars
