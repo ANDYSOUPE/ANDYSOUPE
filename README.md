@@ -23,7 +23,7 @@ Frontend Developer
 <a href="https://www.youtube.com/user/AndySoup" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
-<a href="https://www.twitch.tv/anidy" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitch.tv/andyilll" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/anidy?logo=twitchsx&style=for-the-badge&color=000000&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
 ### 💻 Skills
